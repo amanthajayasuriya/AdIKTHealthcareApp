@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/background1"
+    android:background="@drawable/mad_main2"
     android:layout_height="match_parent">
 
     <LinearLayout
@@ -26,7 +26,7 @@
                 android:layout_margin="10dp"
                 app:civ_border_color="@color/btn"
                 app:civ_border_width="3dp"
-                app:srcCompat="@drawable/health" />
+                app:srcCompat="@drawable/lmb" />
         </LinearLayout>
 
         <LinearLayout
